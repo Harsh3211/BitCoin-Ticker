@@ -1,6 +1,6 @@
 # Bitcoin Ticker 🤑
 
-We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move!
+To make a crypto currency price checking app by monitoring bitcoin rates live.
 
 ![Image1](https://github.com/Harsh3211/BitCoin-Ticker/blob/master/Screenshots/Screenshot_1596727909.png)
 ![Image2](https://github.com/Harsh3211/BitCoin-Ticker/blob/master/Screenshots/Screenshot_1596727918.png)
